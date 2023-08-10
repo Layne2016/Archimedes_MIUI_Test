@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: bigota.d.miui.com/V10.4.4.0.PCBMIXM/cactus_global_images_V10.4.4.0.PCBMIXM_20190927.0000.00_9.0_global_28276e542c.tgz
+  ROM_URL: https://bigota.d.miui.com/V10.4.4.0.PCBMIXM/cactus_global_images_V10.4.4.0.PCBMIXM_20190927.0000.00_9.0_global_28276e542c.tgz
   ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
